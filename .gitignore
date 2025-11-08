@@ -1,0 +1,7 @@
+# Python compiled "junk"
+__pycache__/
+*.pyc
+
+# Generated data and models
+sensor_data.csv
+model.pkl
