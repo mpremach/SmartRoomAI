@@ -2,3 +2,4 @@
 </video>
 README split into PiReadMe and ArduinoReadME
 Check folders!
+See releases for demo video.
